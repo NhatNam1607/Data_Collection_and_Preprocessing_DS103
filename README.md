@@ -8,5 +8,6 @@ trọng để đánh giá chất lượng giáo dục phổ thông, đồng th�
 môn thi và tổ hợp xét tuyển để đăng ký nguyện vọng xét tuyển cho phù hợp. Do đó việc thu
 thập được bộ dữ liệu điểm thi THPT đặc biệt là năm gần nhất là năm 2020 là vô cùng quan
 trọng.
+
   -File báo cáo trình bày cụ thể chi tiết các bước thu thập dữ liệu, và xử lý đưa ra bộ dữ liệu hoàn chỉnh nhất.
 
