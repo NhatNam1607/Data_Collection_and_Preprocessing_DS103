@@ -2,6 +2,8 @@
 XỬ LÝ BỘ DỮ LIỆU ĐIỂM THI ĐẠI HỌC NĂM 2020
 
 - **Mô tả bài toán:**
+
+
   -Hiện nay, kì thi THPT là kì thì quan trọng bậc nhất ở Việt Nam. Đây là cơ sở dữ liệu quan
 trọng để đánh giá chất lượng giáo dục phổ thông, đồng thời là cơ sở để các trường đại học, cao
 đẳng xác định ngưỡng điểm xét tuyển. Các thí sinh, phụ huynh có thể căn cứ vào điểm từng
